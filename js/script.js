@@ -5,7 +5,8 @@ let clickCounter = 0;
 
 function clickFunction() {
 
-    clickCounter = clickCounter + 1;
+    console.log("the button has been clicked");
+    clickCounter = clickCounter + 3;
 
     myParagraph.innerHTML = "I have been clicked " + clickCounter + " time(s)";
 }

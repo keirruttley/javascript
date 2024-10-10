@@ -27,3 +27,8 @@ a {
   font-size: 16px;
   cursor: pointer;
 }
+
+#character-image {
+  height: 200px;
+  width: 100px;
+}

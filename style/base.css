@@ -19,3 +19,11 @@ a {
   user-select: none;
   cursor: pointer;
 }
+
+#btn {
+  background-color: rgb(0, 255, 72); /* Green */
+  padding: 5px;
+  color: rgb(255, 0, 0);
+  font-size: 16px;
+  cursor: pointer;
+}
